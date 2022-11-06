@@ -1,3 +1,3 @@
 # DjangoGee
 
-Testing some django and google earth engine webmapping capabilities
+Testing some Django and Google Earth Engine (GEE) webmapping capabilities
